@@ -1,3 +1,4 @@
-# videoCarril
-Video de un carril automovilístico.
-El video es usado para realizar segmentación sobre los automóviles, aplicando el método de sustracción de fondo.
+# Videos
+This contains two video files which are used to apply a background subtraction.
+The Autos.mp4 file shows a traffic lane where cars are driving through.
+The Personas.mp4 file shows a park where people walks by.
